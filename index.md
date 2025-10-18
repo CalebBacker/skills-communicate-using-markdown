@@ -17,3 +17,7 @@ var myVar = "Hello, world!";
 ``` java
 String myString = "This is Java";
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
